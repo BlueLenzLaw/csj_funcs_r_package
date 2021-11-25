@@ -1,0 +1,10 @@
+Package: csjfuncs
+Type: Package
+Title: Use some functions that I wrote before (e.g. isprime(), buffon(), leave one out())
+Version: 0.1.0
+Author: Sijia Chen
+Maintainer: Sijia Chen <bluelenzlaw@sjtu.edu.cn>
+Description: Use the functions I've written before.
+License: GNU
+Encoding: UTF-8
+LazyData: true
